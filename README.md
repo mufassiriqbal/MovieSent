@@ -25,6 +25,7 @@ Pickle (for saving the model)
 
 ## 📂 Project Structure
 MovieSent/
+
 ├─ app.py # Flask backend
 ├─ models/
 │ └─ logreg_model.pkl # trained Logistic Regression model
